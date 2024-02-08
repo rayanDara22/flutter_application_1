@@ -44,7 +44,10 @@ app.*.map.json
 /android/
 /ios/
 /linux/
-/maxos/
+/macos/
 /test/
 /web/
 /windows/
+.metadata
+.analysis_options.yaml
+.pubspec.lock
